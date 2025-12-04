@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "GALLOWS BELL",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-04T16:11:40.733682Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GALLOWS BELL",
+      "artist": "buzzG feat.luz",
+      "has_synced": true,
+      "path": "select/01_GALLOWS_BELL_buzzG_feat.luz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GALLOWS BELL",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/02_GALLOWS_BELL_nano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GALLOWS BELL [reprise]",
+      "artist": "buzzG feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/03_GALLOWS_BELL_[reprise]_buzzG_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "GALLOWS BELL",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/04_GALLOWS_BELL_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "GALLOWS BELL(buzzG feat. 初音ミク)",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/05_GALLOWS_BELL(buzzG_feat._初音ミク)_Various.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "GALLOWS BELL（Live at 新木場Studio Coast 2013/3/16)",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/06_GALLOWS_BELL(Live_at_新木場Studio_Coast_2013_3_16)_NANO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "GALLOWS BELL",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/07_GALLOWS_BELL_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "GALLOWS BELL",
+      "artist": "F9",
+      "has_synced": true,
+      "path": "select/08_GALLOWS_BELL_F9.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "GALLOWS BELL",
+      "artist": "buzzG feat. Hatsune, Miku",
+      "has_synced": false,
+      "path": "select/09_GALLOWS_BELL_buzzG_feat._Hatsune,_Miku.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "GALLOWS BELL",
+      "artist": "Hatsune Miku",
+      "has_synced": false,
+      "path": "select/10_GALLOWS_BELL_Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "GALLOWS BELL",
+      "artist": "buzzG feat. 初音ミク × VOCALISTS",
+      "has_synced": true,
+      "path": "select/11_GALLOWS_BELL_buzzG_feat._初音ミク_×_VOCALISTS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GALLOWS BELL",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_01_GALLOWS_BELL_ナノ.txt"
+    }
+  ]
+}
